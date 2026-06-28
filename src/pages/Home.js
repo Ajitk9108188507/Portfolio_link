@@ -57,7 +57,7 @@ function Home() {
       <header className="navbar1">
 
         <div className="logo">
-          <h2>Ajit Kakhandaki</h2>
+          <h2>Ajit S Kakhandaki</h2>
         </div>
 
         <div className="nav-buttons">
