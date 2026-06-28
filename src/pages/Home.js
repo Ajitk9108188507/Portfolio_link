@@ -56,10 +56,13 @@ function Home() {
 
       <header className="navbar1">
 
-        <div className="logo">
-          <h2>Ajit S Kakhandaki</h2>
-        </div>
-
+       <div>
+  <img
+    src={process.env.PUBLIC_URL + "/3.png"}
+    alt="logo"
+    style={{ width: "1.5cm", height: "1.5cm" }}
+  />
+</div>
         <div className="nav-buttons">
 
           <button
