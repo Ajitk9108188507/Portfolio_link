@@ -45,7 +45,7 @@ function AboutPage() {
               <p className="fs-5 lh-lg">
 
                 Passionate Software Developer with
-                <strong> 2.9 years </strong>
+                <strong> 2.8 years </strong>
                 of professional experience in designing,
                 developing and deploying scalable web
                 applications using{" "}
